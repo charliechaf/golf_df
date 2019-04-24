@@ -1,0 +1,101 @@
+1)
+Justin Thomas
+Bryson DeChambeau
+Matt Kuchar
+Marc Leishman
+Gary Woodland
+Charles Howell
+Score: 543.280000
+Total Price: 49700.000000
+
+2)
+Justin Thomas
+Bryson DeChambeau
+Matt Kuchar
+Marc Leishman
+Ian Poulter
+Charles Howell
+Score: 541.610000
+Total Price: 49800.000000
+
+3)
+Justin Thomas
+Bryson DeChambeau
+Matt Kuchar
+Ian Poulter
+Gary Woodland
+Charles Howell
+Score: 539.830000
+Total Price: 49500.000000
+
+4)
+Rickie Fowler
+Bryson DeChambeau
+Xander Schauffele
+Matt Kuchar
+Gary Woodland
+Charles Howell
+Score: 539.680000
+Total Price: 49900.000000
+
+5)
+Rickie Fowler
+Bryson DeChambeau
+Matt Kuchar
+Marc Leishman
+Gary Woodland
+Charles Howell
+Score: 539.280000
+Total Price: 49200.000000
+
+6)
+Justin Thomas
+Bryson DeChambeau
+Matt Kuchar
+Marc Leishman
+Patrick Cantlay
+Charles Howell
+Score: 539.050000
+Total Price: 49900.000000
+
+7)
+Rickie Fowler
+Bryson DeChambeau
+Matt Kuchar
+Marc Leishman
+Ian Poulter
+Gary Woodland
+Score: 538.770000
+Total Price: 49800.000000
+
+8)
+Jon Rahm
+Bryson DeChambeau
+Matt Kuchar
+Marc Leishman
+Gary Woodland
+Charles Howell
+Score: 538.530000
+Total Price: 49500.000000
+
+9)
+Justin Thomas
+Bryson DeChambeau
+Marc Leishman
+Ian Poulter
+Gary Woodland
+Charles Howell
+Score: 538.330000
+Total Price: 49400.000000
+
+10)
+Rickie Fowler
+Bryson DeChambeau
+Xander Schauffele
+Marc Leishman
+Gary Woodland
+Charles Howell
+Score: 538.180000
+Total Price: 49800.000000
+
+Number of Combinations Checked: 541931237
